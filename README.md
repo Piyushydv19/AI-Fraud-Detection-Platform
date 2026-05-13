@@ -33,9 +33,6 @@ An advanced AI-powered analytics platform built using Streamlit and Machine Lear
 5. Predict outcomes
 6. Download analytics reports
 
-## 📸 Screenshots
-
-Add your screenshots below.
 
 ## ▶ Run Project
 
